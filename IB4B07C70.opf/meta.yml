@@ -1,0 +1,18 @@
+id: IB4B07C70
+default_language: fr
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:10.824659
+last_modified: 2023-01-04 11:29:10.824680
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  0D31:
+    title: 'Bodhicaryāvatāra: Teachings and Overview'
+    base_file: 0D31.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
